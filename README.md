@@ -52,6 +52,15 @@ https://turbowarp.org/636244032
 https://soundeffect-lab.info/
 https://otologic.jp/free/se/news-accent01.html
 
+
+ **情報受信元**
+ 
+ リアルタイム地震ビューアーturbowarp版*1:https://turbowarp.org/636244032
+ 
+ P2P地震情報:https://www.p2pquake.net/develop/json_api_v2/
+ 
+*1 リアルタイム地震ビューアーturbowarp版のクラウド変数
+
 **質問や提案**
 
 質問や提案があれば↓
